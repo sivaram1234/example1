@@ -1,3 +1,10 @@
 hello world
 
 this is an example github txt file
+
+there has been regards that was issing in this file
+
+so i am adding it
+
+regargs 
+hola 
